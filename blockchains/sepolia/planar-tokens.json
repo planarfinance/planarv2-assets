@@ -17,7 +17,7 @@
       "chainId": 11155111,
       "symbol": "USDT",
       "name": "Planar Test USDT",
-      "address": "0x9E6a787BddC64443D7f5Bb5b39f16E5502d4a309",
+      "address": "0x3D62ebc48eC32935d59e257884AF229Ee18F3f3c",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolina/tokens/0x9E6a787BddC64443D7f5Bb5b39f16E5502d4a309.svg",
       "decimals": 6
     },
@@ -25,7 +25,7 @@
       "chainId": 11155111,
       "symbol": "DAI",
       "name": "Planar Test DAI",
-      "address": "0xb037AAac53568AB4dc6E9bA06109Da1960a0dcB0",
+      "address": "0x7D1610d1f4Ec60CA978480361a4AefbDd1AFF9C0",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolina/tokens/0xb037AAac53568AB4dc6E9bA06109Da1960a0dcB0.svg",
       "decimals": 18
     },
@@ -33,7 +33,7 @@
       "chainId": 11155111,
       "symbol": "USDC",
       "name": "Planar Test USDC",
-      "address": "0x9015b0dCD8EF25E340c50CbB575C954c6892F62e",
+      "address": "0x0D81e9C83fC5401f7aC275FE7Ac8Bc7744FB7509",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolina/tokens/0x9015b0dCD8EF25E340c50CbB575C954c6892F62e.svg",
       "decimals": 6
     },
@@ -57,7 +57,7 @@
       "chainId": 11155111,
       "symbol": "TESTA",
       "name": "Planar Test TokenA",
-      "address": "0x98977Edb2F9256C540e406b8f3Cb402d8C72E654",
+      "address": "0x720F5e62EbF172Ab6c7c7cA7e799C71cc796E6aA",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolina/tokens/0x98977Edb2F9256C540e406b8f3Cb402d8C72E654.svg",
       "decimals": 18
     },
@@ -65,7 +65,7 @@
       "chainId": 11155111,
       "symbol": "TESTB",
       "name": "Planar Test TokenB",
-      "address": "0x7C37adB4c2782DdF56640E73E54a7f9992739D30",
+      "address": "0x1b60031038339B678FE7562b22D1083Edd846BBE",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolina/tokens/0x7C37adB4c2782DdF56640E73E54a7f9992739D30.svg",
       "decimals": 18
     }
