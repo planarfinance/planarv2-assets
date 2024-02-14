@@ -17,24 +17,24 @@
       "chainId": 168587773,
       "symbol": "USDT",
       "name": "Planar Test USDT",
-      "address": "0x3D62ebc48eC32935d59e257884AF229Ee18F3f3c",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x3D62ebc48eC32935d59e257884AF229Ee18F3f3c.svg",
+      "address": "0x63336B3ed313230D0644ce46CF2BcC3E12DAC47e",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x63336B3ed313230D0644ce46CF2BcC3E12DAC47e.svg",
       "decimals": 6
     },
     {
       "chainId": 168587773,
       "symbol": "DAI",
       "name": "Planar Test DAI",
-      "address": "0x7D1610d1f4Ec60CA978480361a4AefbDd1AFF9C0",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x7D1610d1f4Ec60CA978480361a4AefbDd1AFF9C0.svg",
+      "address": "0x7Eb718e6E1Cf0213b4648B649f7BCb72AE62eF5f",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x7Eb718e6E1Cf0213b4648B649f7BCb72AE62eF5f.svg",
       "decimals": 18
     },
     {
       "chainId": 168587773,
       "symbol": "USDC",
       "name": "Planar Test USDC",
-      "address": "0x7Cb0C805544C5BA83A6e014A9e199E1C8ed16137",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x7Cb0C805544C5BA83A6e014A9e199E1C8ed16137.svg",
+      "address": "0x59631aeC196961867eE9c79A81439C0069084025",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x59631aeC196961867eE9c79A81439C0069084025.svg",
       "decimals": 6
     },
     {
