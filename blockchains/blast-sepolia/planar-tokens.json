@@ -1,0 +1,73 @@
+{
+  "name": "Planar Default",
+  "timestamp": "2023-10-13T02:46:10.821Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/planar.svg",
+  "keywords": [
+    "planar",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 168587773,
+      "symbol": "USDT",
+      "name": "Planar Test USDT",
+      "address": "0x3D62ebc48eC32935d59e257884AF229Ee18F3f3c",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x3D62ebc48eC32935d59e257884AF229Ee18F3f3c.svg",
+      "decimals": 6
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "DAI",
+      "name": "Planar Test DAI",
+      "address": "0x7D1610d1f4Ec60CA978480361a4AefbDd1AFF9C0",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x7D1610d1f4Ec60CA978480361a4AefbDd1AFF9C0.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "USDC",
+      "name": "Planar Test USDC",
+      "address": "0x7Cb0C805544C5BA83A6e014A9e199E1C8ed16137",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x7Cb0C805544C5BA83A6e014A9e199E1C8ed16137.svg",
+      "decimals": 6
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "WETH",
+      "name": "Wrapped ETH",
+      "address": "0x4200000000000000000000000000000000000023",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/0x4200000000000000000000000000000000000023.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "PLANE",
+      "name": "Planar PLANE",
+      "address": "0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "TESTA",
+      "name": "Planar Test TokenA",
+      "address": "0x720F5e62EbF172Ab6c7c7cA7e799C71cc796E6aA",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x720F5e62EbF172Ab6c7c7cA7e799C71cc796E6aA.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "TESTB",
+      "name": "Planar Test TokenB",
+      "address": "0x1b60031038339B678FE7562b22D1083Edd846BBE",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x1b60031038339B678FE7562b22D1083Edd846BBE.svg",
+      "decimals": 18
+    }
+  ]
+}
