@@ -18,7 +18,7 @@
       "symbol": "USDT",
       "name": "Planar Test USDT",
       "address": "0x63336B3ed313230D0644ce46CF2BcC3E12DAC47e",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x63336B3ed313230D0644ce46CF2BcC3E12DAC47e.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x63336B3ed313230D0644ce46CF2BcC3E12DAC47e.svg",
       "decimals": 6
     },
     {
@@ -26,7 +26,7 @@
       "symbol": "DAI",
       "name": "Planar Test DAI",
       "address": "0x7Eb718e6E1Cf0213b4648B649f7BCb72AE62eF5f",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/sepolia/tokens/0x7Eb718e6E1Cf0213b4648B649f7BCb72AE62eF5f.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x7Eb718e6E1Cf0213b4648B649f7BCb72AE62eF5f.svg",
       "decimals": 18
     },
     {
