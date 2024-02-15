@@ -42,7 +42,7 @@
       "symbol": "WETH",
       "name": "Wrapped ETH",
       "address": "0x4200000000000000000000000000000000000023",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/0x4200000000000000000000000000000000000023.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000023.svg",
       "decimals": 18
     },
     {
@@ -50,7 +50,7 @@
       "symbol": "PLANE",
       "name": "Planar PLANE",
       "address": "0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b.svg",
       "decimals": 18
     },
     {
