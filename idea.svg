@@ -1,0 +1,17 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <g id="svg_3" stroke="null" stroke-width="0">
+   <g id="svg_4" stroke="null">
+    <title stroke="null">Layer 1</title>
+    <path id="svg_1" fill="url(#svg_2)" d="m121.56083,119.591l0.06249,-12.1858l11.59208,6.68651l0,25.2152l-23.2154,-13.27933l11.56083,-6.43657l0,-0.00001zm-11.56083,6.43657l0,27.15233l11.59208,-6.68654l0,-13.27933l11.59208,6.68654l11.43585,-6.71778l0,-13.21684l-34.62001,-19.96595l0,26.02758l0,-0.00001z" stroke="null"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <linearGradient y2="-0.0092" x2="1.02286" y1="1.00921" x1="0" id="svg_2">
+   <stop stop-color="#4E4FFF"/>
+   <stop stop-color="#A158FF" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
