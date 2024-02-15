@@ -10,8 +10,8 @@
  </g>
  <defs>
   <linearGradient y2="-0.0092" x2="1.02286" y1="1.00921" x1="0" id="svg_2">
-   <stop stop-color="#4E4FFF"/>
-   <stop stop-color="#A158FF" offset="1"/>
+   <stop stop-color="#FCFC03"/>
+   <stop stop-color="#FCFC03" offset="1"/>
   </linearGradient>
  </defs>
 </svg>
