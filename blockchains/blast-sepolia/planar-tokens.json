@@ -31,11 +31,11 @@
     },
     {
       "chainId": 168587773,
-      "symbol": "USDC",
-      "name": "Planar Test USDC",
-      "address": "0x90f47758526d83ebAE13e5048E45b77420F06D95",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x90f47758526d83ebAE13e5048E45b77420F06D95.svg",
-      "decimals": 6
+      "symbol": "USDB",
+      "name": "Planar Test USDB",
+      "address": "0x4200000000000000000000000000000000000022",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000022.svg",
+      "decimals": 18
     },
     {
       "chainId": 168587773,
@@ -49,8 +49,8 @@
       "chainId": 168587773,
       "symbol": "PLANE",
       "name": "Planar PLANE",
-      "address": "0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xC36f679a50f450c0ce356eA88a050d6ed72F5b0b.svg",
+      "address": "0x2c61d3E09168ba5ba530da39Fd4074Ff22Fc6A83",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x2c61d3E09168ba5ba530da39Fd4074Ff22Fc6A83.svg",
       "decimals": 18
     },
     {
