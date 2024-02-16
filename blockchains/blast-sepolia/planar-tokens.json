@@ -55,10 +55,10 @@
     },
     {
       "chainId": 168587773,
-      "symbol": "TESTA",
+      "symbol": "TESTB",
       "name": "Planar Test Beta",
-      "address": "0x1a916673d0F197974092b7ba1C3d6232cea1834A",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x1a916673d0F197974092b7ba1C3d6232cea1834A.svg",
+      "address": "0xfb18bF256b77FE0728E297Ace5b424B4a63fe157",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xfb18bF256b77FE0728E297Ace5b424B4a63fe157.svg",
       "decimals": 18
     },
     {
