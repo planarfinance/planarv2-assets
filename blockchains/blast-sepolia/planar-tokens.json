@@ -49,8 +49,8 @@
       "chainId": 168587773,
       "symbol": "PLANE",
       "name": "Planar token",
-      "address": "0x2c61d3E09168ba5ba530da39Fd4074Ff22Fc6A83",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x2c61d3E09168ba5ba530da39Fd4074Ff22Fc6A83.svg",
+      "address": "0x6e263904E6257E39FC71F4478D14Ed35e7eF5e5D",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x6e263904E6257E39FC71F4478D14Ed35e7eF5e5D.svg",
       "decimals": 18
     },
     {
