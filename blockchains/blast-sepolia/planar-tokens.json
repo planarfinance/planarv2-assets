@@ -71,8 +71,8 @@
     },
     {
       "chainId": 168587773,
-      "symbol": "MÖBI",
-      "name": "Möbius",
+      "symbol": "MOBI",
+      "name": "Mobius",
       "address": "0x904b9dbbA2B541C44545C627c2d40151ee3Ec8b7",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x904b9dbbA2B541C44545C627c2d40151ee3Ec8b7.svg",
       "decimals": 18
