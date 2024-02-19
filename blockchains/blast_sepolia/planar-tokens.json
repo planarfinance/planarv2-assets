@@ -18,7 +18,7 @@
       "symbol": "PLANE",
       "name": "Planar token",
       "address": "0x59485f488cF722ab9b5CC9A9AFD6b6A2e532e92e",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x59485f488cF722ab9b5CC9A9AFD6b6A2e532e92e.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x59485f488cF722ab9b5CC9A9AFD6b6A2e532e92e.svg",
       "decimals": 18
     },
     {
@@ -26,7 +26,7 @@
       "symbol": "WETH",
       "name": "Wrapped ETH",
       "address": "0x4200000000000000000000000000000000000023",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000023.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x4200000000000000000000000000000000000023.svg",
       "decimals": 18
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "USDB",
       "name": "Rebasing USD",
       "address": "0x4200000000000000000000000000000000000022",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000022.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x4200000000000000000000000000000000000022.svg",
       "decimals": 18
     },
     {
@@ -42,7 +42,7 @@
       "symbol": "DAI",
       "name": "Planar Test DAI",
       "address": "0xf1068782405C4C21fEa86BcA055d6F11Cc647adE",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xf1068782405C4C21fEa86BcA055d6F11Cc647adE.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0xf1068782405C4C21fEa86BcA055d6F11Cc647adE.svg",
       "decimals": 18
     },
     {
@@ -50,7 +50,7 @@
       "symbol": "USDT",
       "name": "Planar Test USDT",
       "address": "0x9cDFdDee336951319Dc009875F2fBA846459105a",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x9cDFdDee336951319Dc009875F2fBA846459105a.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x9cDFdDee336951319Dc009875F2fBA846459105a.svg",
       "decimals": 18
     },
     {
@@ -58,7 +58,7 @@
       "symbol": "PENRO",
       "name": "Penros Test Token",
       "address": "0x5a1f4286f22fdeb3eba5B8Db1372698a9987368E",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x5a1f4286f22fdeb3eba5B8Db1372698a9987368E.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x5a1f4286f22fdeb3eba5B8Db1372698a9987368E.svg",
       "decimals": 18
     },
     {
@@ -66,7 +66,7 @@
       "symbol": "BLVT",
       "name": "Bilvet Test Token",
       "address": "0x002A34E7feE78e6A3013a92505a9A454619e06dA",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x002A34E7feE78e6A3013a92505a9A454619e06dA.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x002A34E7feE78e6A3013a92505a9A454619e06dA.svg",
       "decimals": 18
     },
     {
@@ -74,7 +74,7 @@
       "symbol": "MÖBI",
       "name": "Möbius",
       "address": "0x904b9dbbA2B541C44545C627c2d40151ee3Ec8b7",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x904b9dbbA2B541C44545C627c2d40151ee3Ec8b7.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x904b9dbbA2B541C44545C627c2d40151ee3Ec8b7.svg",
       "decimals": 18
     },
     {
@@ -82,7 +82,7 @@
       "symbol": "VEDRE",
       "name": "Belvedere Test Token",
       "address": "0x4b8E72E2CC137F4d4ccA3D5e44f171Bdc8686DE2",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4b8E72E2CC137F4d4ccA3D5e44f171Bdc8686DE2.svg",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast_sepolia/tokens/0x4b8E72E2CC137F4d4ccA3D5e44f171Bdc8686DE2.svg",
       "decimals": 18
     }
   ]
