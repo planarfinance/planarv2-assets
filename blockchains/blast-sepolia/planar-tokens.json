@@ -1,6 +1,6 @@
 {
   "name": "Planar Default",
-  "timestamp": "2023-10-13T02:46:10.821Z",
+  "timestamp": "2024-04-24T02:46:10.821Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -16,9 +16,9 @@
     {
       "chainId": 168587773,
       "symbol": "PLANE",
-      "name": "Planar token",
-      "address": "0x95cC84d7c0feAfa3373d3e8EF86d003dB049D832",
-      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x95cC84d7c0feAfa3373d3e8EF86d003dB049D832.svg",
+      "name": "Planar Token",
+      "address": "0x7DB2B351fd2eF74133EF90605Ed0F52249A34C6F",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x7DB2B351fd2eF74133EF90605Ed0F52249A34C6F.svg",
       "decimals": 18
     },
     {
@@ -36,7 +36,38 @@
       "address": "0x4200000000000000000000000000000000000022",
       "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000022.svg",
       "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "PENRO",
+      "name": "Penros Test Token",
+      "address": "0xD931c5b1332aD4aB1dD7b9610bE3214fbCa8Ed85",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xD931c5b1332aD4aB1dD7b9610bE3214fbCa8Ed85.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "BLVT",
+      "name": "Bilvet Test Token",
+      "address": "0xf61f038f08A318b5613F884A6Cc9d97ab74A11ac",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xf61f038f08A318b5613F884A6Cc9d97ab74A11ac.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "MOBI",
+      "name": "Mobius Test Token",
+      "address": "0xDDa41DB7bD819F6DE8499DAEC9Fe9a888EC5B029",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xDDa41DB7bD819F6DE8499DAEC9Fe9a888EC5B029.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "VEDRE",
+      "name": "Belvedere Test Token",
+      "address": "0xB0281FAB7Cd9a30C2e62b87DE3084e4D07863e98",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xB0281FAB7Cd9a30C2e62b87DE3084e4D07863e98.svg",
+      "decimals": 18
     }
-
   ]
 }
