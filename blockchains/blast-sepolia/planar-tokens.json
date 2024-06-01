@@ -1,0 +1,50 @@
+{
+  "name": "Planar Default",
+  "timestamp": "2024-04-24T02:46:10.821Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/planar.svg",
+  "keywords": [
+    "planarv2",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 168587773,
+      "symbol": "PLANE",
+      "name": "Planar Token",
+      "address": "0xdD4159eEF90E96f0a7a9D20383532cf716E1CB4a",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xdD4159eEF90E96f0a7a9D20383532cf716E1CB4a.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "WETH",
+      "name": "Wrapped ETH",
+      "address": "0x4200000000000000000000000000000000000023",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000023.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "USDB",
+      "name": "Rebasing USD",
+      "address": "0x4200000000000000000000000000000000000022",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0x4200000000000000000000000000000000000022.svg",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "address": "0xCfa255CC38FBcFEDf1C843DEaC9aCdB18846f258",
+      "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/blockchains/blast-sepolia/tokens/0xCfa255CC38FBcFEDf1C843DEaC9aCdB18846f258.svg",
+      "decimals": 8
+    }
+  ]
+}
+

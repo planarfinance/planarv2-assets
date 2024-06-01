@@ -1,0 +1,17 @@
+{
+  "keywords": [
+    "planarv2",
+    "unsupported"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/planarfinance/assets/main/planar.svg",
+  "name": "Planar Unsupported",
+  "tags": {},
+  "timestamp": "2024-04-24T02:46:10.821Z",
+  "tokens": [
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
